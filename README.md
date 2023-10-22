@@ -1,5 +1,5 @@
- <h1 align="center"> BLACKHAT </h1> 
-<p align="center"> Introducing BLACKHAT, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+ <h1 align="center"> GARRI MD </h1> 
+<p align="center"> Introducing GARRI, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
@@ -9,13 +9,13 @@
   
    
 <p align="center">
-  <a href="https://wa.me/+2347039570336?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+BLACKHAT+Repo" target="_blank">
+  <a href="https://wa.me/+2348157960746?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+GARRIMD+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a aria-label="BLACKHAT is free to use" href="https://github.com/kennyblack92/BLACKHAT/blob/main/LICENCE" target="_blank">
+  <a aria-label="GARRI is free to use" href="https://github.com/kennyblack92/GARRIMD/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
-  <a aria-label="BLACKHAT is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="GARRIMD is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
     <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -54,7 +54,7 @@
 ---
 1.  ***Get [`SESSION ID`]((https://replit.com/@Excelottah/BLACKHAT)) by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI).***
-3.  ***Click [`FORK`](https://github.com/kennyblack92/BLACKHAT/fork) and `Star ⭐ Repository` if you Like that Bot.***
+3.  ***Click [`FORK`](https://github.com/kennyblack92/GARRI/fork) and `Star ⭐ Repository` if you Like that Bot.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
@@ -78,6 +78,6 @@ mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true
 - [Sam Pamday](https://github.com/Sampandey001) 
 
 
-The BLACKHAT is made available under the [GPL-3 license](https://github.com/kennyblack92/BLACKHAT/blob/main/LICENCE).
+The GARRI MD is made available under the [GPL-3 license](https://github.com/kennyblack92/BLACKHAT/blob/main/LICENCE).
 
-##Deploy on [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/kennyblack92/BLACKHAT)
+##Deploy on [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/kennyblack92/GARRIMD)
